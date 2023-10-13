@@ -1,6 +1,6 @@
 {
     "Parameters": {
-        "KeyName": "vockey",
+        "KeyName": "YP_EC2_Keypair_IAM_user",
         "InstanceType": "t2.micro",
         "SSHLocation": "10.0.0.0/32",
         "DBName": "wordpressdb",
